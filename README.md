@@ -1,2 +1,3 @@
 # gofi
-Import fotos from cards and other sources
+Import fotos from flashes and other sources
+
